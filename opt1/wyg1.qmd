@@ -1,0 +1,32 @@
+---
+title: "Part 1"
+---
+
+```{r, child="../child/data_design.qmd"}
+
+```
+
+```{r}
+source("../scripts/revision_script.R")
+```
+
+## Output
+
+```{r}
+cat("Model 1: Productivity predicted by coffee consumption")
+model1
+```
+
+## Tasks
+
+```{r, child="../child/p1_tasks.qmd"}
+
+```
+
+For the following questions, match up the equation of the line to the corresponding scatterplot.
+
+```{r}
+lm_mat
+```
+
+`r paste0("_____ ", 1:4, ". y~i~ = ", round(mods_sum$b0, 2)," + ", round(mods_sum$b1, 2), "x~i~ + e~i~", sep = "\n\n", collapse = "")`

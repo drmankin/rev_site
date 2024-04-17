@@ -1,0 +1,5 @@
+---
+title: "Welcome!"
+---
+
+Please choose the session type you are in; your session lead will tell you.

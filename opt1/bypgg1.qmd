@@ -1,0 +1,36 @@
+---
+title: "Part 3"
+---
+
+```{r, child="../child/data_design.qmd"}
+
+```
+
+```{r}
+source("../scripts/revision_script.R")
+```
+
+## Output
+
+```{r}
+cat("Model 3: Productivity predicted by coffee consumption, wellbeing, and AI use")
+
+summary(model3)
+```
+
+```{r}
+cat("\n\nModel 2 vs Model 3 comparison")
+
+m2m3_aov
+```
+
+```{r}
+cat("\n\n Standardised Bs")
+parameters::model_parameters(model3, standardize = "refit")
+```
+
+## Tasks
+
+```{r, child="../child/p3_tasks.qmd"}
+
+```
