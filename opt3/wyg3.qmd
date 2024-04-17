@@ -20,7 +20,7 @@ function checkAnswers() {
     
     if (answer1 === correctAnswer1 && answer2 === correctAnswer2) {
         // Link to another page
-        window.location.href="https://sussex.ac.uk";
+        window.location.href="https://and-revision.netlify.app/opt3/bww3";
     } else {
         // Show error message
         alert('No response. Check calculations and try again.');

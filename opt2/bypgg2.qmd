@@ -38,3 +38,6 @@ parameters::model_parameters(model3, standardize = "refit")
 ::: callout-note
 Make sure to take note of your answers! You will need them for the Kahoot! at the end of this section.
 :::
+
+<a href="https://and-revision.netlify.app/opt2/bbw2"><button class="button">&laquo; Previous Section</button></a>
+<a href="https://and-revision.netlify.app/"><button class="button right">Back to Home &raquo;</button></a>

@@ -34,3 +34,8 @@ parameters::model_parameters(model3, standardize = "refit")
 ```{r, child="../child/p3_tasks.qmd"}
 
 ```
+
+\ 
+
+<a href="https://and-revision.netlify.app/opt1/bbw1"><button class="button">&laquo; Previous Section</button></a>
+<a href="https://and-revision.netlify.app/"><button class="button right">Back to Home &raquo;</button></a>

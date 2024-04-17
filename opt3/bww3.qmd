@@ -59,12 +59,12 @@ c(lat, lng)
 
 ## Find the Ship
 
-### Latitude:
+### Latitude
 
 - The first number is the answer to task 3.
 - The second number is the first digit of the upper bound from task 2.
 
-### Longitude:
+### Longitude
 
 - The first number is the third digit of the difference in R^2^ between the two models from task 1.
 - The third number is the second digit of the lower bound from task 2.
@@ -72,5 +72,5 @@ c(lat, lng)
 When you have found the ship, click on the marker to proceed.
 
 ```{=html}
-<iframe width="100%" height="650" src="https://drmankin.shinyapps.io/trackr/"></iframe>
+<iframe width="100%" height="1000" src="https://drmankin.shinyapps.io/trackr/"></iframe>
 ```

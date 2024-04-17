@@ -25,3 +25,8 @@ summary(model2)
 ```{r, child="../child/p2_tasks.qmd"}
 
 ```
+
+\ 
+
+<a href="https://and-revision.netlify.app/opt1/wyg1"><button class="button">&laquo; Previous Section</button></a>
+<a href="https://and-revision.netlify.app/opt1/bypgg1"><button class="button right">Next Section &raquo;</button></a>

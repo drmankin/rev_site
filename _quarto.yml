@@ -20,7 +20,7 @@ website:
 format:
   html:
     theme:
-      light: flatly
+      light: [flatly, flatly.scss]
       dark: [darkly, oldtimey.scss]
     css: styles.css
     toc: true
