@@ -26,7 +26,10 @@ summary(model2)
 
 ```
 
-\ 
+ 
 
-<a href="https://and-revision.netlify.app/opt2/wyg2"><button class="button">&laquo; Previous Section</button></a>
-<a href="https://and-revision.netlify.app/bypgg2"><button class="button right">Next Section &raquo;</button></a>
+::: callout-note
+Make sure to take note of your answers! You will need them for the Kahoot! at the end of this section.
+:::
+
+<a href="https://and-revision.netlify.app/opt2/wyg2"><button class="button">« Previous Section</button></a> <a href="https://and-revision.netlify.app/opt2/bypgg2"><button class="button right">Next Section »</button></a>

@@ -64,7 +64,7 @@ The transmission frequency is the answer to question (3).
 
 ### Code
 
-Match up the equation of the line to the corresponding scatterplots below. The code to send will take the form of a four-letter code of the matched-up scatterplots in order from 1 to 4.
+Match up the equation of the line to the corresponding scatterplots below. The **code to send** will take the form of a four-letter code of the matched-up scatterplots in order from 1 to 4.
 
 ```{r}
 lm_mat
@@ -78,8 +78,8 @@ To respond to the alien transmission, enter the following:
 
 <label for="answer1">Transmission Frequency:</label>
 <input type="text" id="answer1" style="color: grey;"> Hz
-<br>
+<br><br>
 <label for="answer2">Code to Send:</label>
 <input type="text" id="answer2" style="color: grey;">
-<br>
-<button onclick="checkAnswers()" style="color: grey;">Send Transmission!</button>
+<br><br>
+<button onclick="checkAnswers()" class="button">Send Transmission!</button>

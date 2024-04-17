@@ -35,8 +35,6 @@ lm_mat
 Make sure to take note of your answers! You will need them for the Kahoot! at the end of this section.
 :::
 
-\ 
+ 
 
-<a href="https://and-revision.netlify.app/"><button class="button">Back to Home &raquo;</button></a>
-<a href="https://and-revision.netlify.app/opt2/bbw2"><button class="button">Next Section &raquo;</button></a>
-
+<a href="https://and-revision.netlify.app/"><button class="button">« Back to Home »</button></a> <a href="https://and-revision.netlify.app/opt2/bbw2"><button class="button right">Next Section »</button></a>
