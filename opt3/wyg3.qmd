@@ -2,14 +2,13 @@
 title: "Part 1: The Transmission"
 # include-in-header: 
 #   text: <script type="text/javascript" src="p1_check.js"></script>
-execute:
-  echo: false
 ---
 
 ```{r}
 source("../scripts/revision_script.R")
 ```
 
+```{=html}
 <script>
 var correctAnswer1 = 69.42;
 var correctAnswer2 = "BDAC";
@@ -27,9 +26,8 @@ function checkAnswers() {
     }
 }
 </script>
-
+```
 ::: callout-tip
-
 ## Message from Command
 
 Thank you for contributing your expertise to the cause of first contact!
@@ -54,11 +52,11 @@ model1
 
 First, to determine the **transmission frequency** to use to send the response to the aliens, answer the following questions:
 
-1. For every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?
+1.  For every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?
 
-1. What is the equation of the line for this model?
+2.  What is the equation of the line for this model?
 
-1. What productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use *b*s rounded to 2 decimal places, and round your answer as well.
+3.  What productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use *b*s rounded to 2 decimal places, and round your answer as well.
 
 The transmission frequency is the answer to question (3).
 
@@ -76,10 +74,4 @@ lm_mat
 
 To respond to the alien transmission, enter the following:
 
-<label for="answer1">Transmission Frequency:</label>
-<input type="text" id="answer1" style="color: grey;"> Hz
-<br><br>
-<label for="answer2">Code to Send:</label>
-<input type="text" id="answer2" style="color: grey;">
-<br><br>
-<button onclick="checkAnswers()" class="button">Send Transmission!</button>
+<label for="answer1">Transmission Frequency:</label> <input type="text" id="answer1" style="color: grey;"> Hz <br><br> <label for="answer2">Code to Send:</label> <input type="text" id="answer2" style="color: grey;"> <br><br> <button onclick="checkAnswers()" class="button">Send Transmission!</button>

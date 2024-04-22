@@ -53,7 +53,7 @@
     "href": "opt3/bww3.html#find-the-ship",
     "title": "Part 2: The Ship",
     "section": "Find the Ship",
-    "text": "Find the Ship\n\nLatitude\n\nThe first number is the answer to task 3.\nThe second number is the first digit of the upper bound from task 2.\n\n\n\nLongitude\n\nThe first number is the third digit of the difference in R2 between the two models from task 1.\nThe third number is the second digit of the lower bound from task 2.\n\nWhen you have found the ship, click on the marker to proceed."
+    "text": "Find the Ship\n\nLatitude\n\nThe first number is the answer to task 3.\nThe second number is the second digit of the upper bound from the coffee predictor from task 2.\n\n\n\nLongitude\n\nThe first number is the third digit of the difference in R2 between the two models from task 1.\nThe third number is the second digit of the lower bound from the wellbeing predictor from task 2.\n\nWhen you have found the ship, click on the marker to proceed."
   },
   {
     "objectID": "opt2/bypgg2.html",

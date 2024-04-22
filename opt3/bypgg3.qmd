@@ -55,8 +55,8 @@ parameters::model_parameters(model3, standardize = "refit")
 
 The vault lock combination consists of three numbers:
 
-1. The first is the number of the better model (2 or 3).
-2. The second is the number of the predictor that is NOT significant.
-3. The third is the number of the predictor that has the biggest impact on the outcome.
+1.  The first is the number of the better model (2 or 3).
+2.  The second is the number of the predictor that is NOT significant.
+3.  The third is the number of the predictor that has the biggest impact on the outcome.
 
 When you have the combination, put it into the vault lock to retrieve the keys!
