@@ -12,8 +12,8 @@ There are three different sessions in the revision session. They all cover the s
 
 <!-- <a href="https://and-revision.netlify.app/opt3/wyg3"><button class="button right">Option 3</button></a> -->
 
- 
 
-::: button-container
-<a href="https://and-revision.netlify.app/opt1/wyg1" class="button left">Option 1</a> <a href="https://and-revision.netlify.app/opt2/wyg2" class="button center">Option 2</a> <a href="https://and-revision.netlify.app/opt3/wyg3" class="button right">Option 3</a>
-:::
+
+<!-- ::: button-container -->
+<!-- <a href="https://and-revision.netlify.app/opt1/wyg1" class="button left">Option 1</a> <a href="https://and-revision.netlify.app/opt2/wyg2" class="button center">Option 2</a> <a href="https://and-revision.netlify.app/opt3/wyg3" class="button right">Option 3</a> -->
+<!-- ::: -->
