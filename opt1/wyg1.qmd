@@ -37,4 +37,4 @@ lm_mat
 
  
 
-<a href="https://and-revision.netlify.app/"><button class="button">« Back to Home</button></a> <a href="https://and-revision.netlify.app/opt1/bbw1"><button class="button right">Next Section »</button></a>
+<a href="https://and-rev.netlify.app/"><button class="button">« Back to Home</button></a> <a href="https://and-rev.netlify.app/opt1/bbw1"><button class="button right">Next Section »</button></a>

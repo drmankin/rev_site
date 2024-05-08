@@ -41,4 +41,4 @@ Make sure to take note of your answers! You will need them for the Kahoot! at th
 
  
 
-<a href="https://and-revision.netlify.app/"><button class="button">« Back to Home »</button></a> <a href="https://and-revision.netlify.app/opt2/bbw2"><button class="button right">Next Section »</button></a>
+<a href="https://and-rev.netlify.app/"><button class="button">« Back to Home »</button></a> <a href="https://and-rev.netlify.app/opt2/bbw2"><button class="button right">Next Section »</button></a>

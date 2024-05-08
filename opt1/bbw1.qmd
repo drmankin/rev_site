@@ -32,4 +32,4 @@ summary(model2)
 
  
 
-<a href="https://and-revision.netlify.app/opt1/wyg1"><button class="button">« Previous Section</button></a> <a href="https://and-revision.netlify.app/opt1/bypgg1"><button class="button right">Next Section »</button></a>
+<a href="https://and-rev.netlify.app/opt1/wyg1"><button class="button">« Previous Section</button></a> <a href="https://and-rev.netlify.app/opt1/bypgg1"><button class="button right">Next Section »</button></a>
