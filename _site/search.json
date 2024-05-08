@@ -1,101 +1,31 @@
 [
   {
-    "objectID": "opt2/wyg2.html",
-    "href": "opt2/wyg2.html",
+    "objectID": "opt1/wyg1.html",
+    "href": "opt1/wyg1.html",
     "title": "Part 1",
     "section": "",
     "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
   },
   {
-    "objectID": "opt2/wyg2.html#data-and-design",
-    "href": "opt2/wyg2.html#data-and-design",
+    "objectID": "opt1/wyg1.html#data-and-design",
+    "href": "opt1/wyg1.html#data-and-design",
     "title": "Part 1",
     "section": "",
     "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
   },
   {
-    "objectID": "opt2/wyg2.html#output",
-    "href": "opt2/wyg2.html#output",
+    "objectID": "opt1/wyg1.html#output",
+    "href": "opt1/wyg1.html#output",
     "title": "Part 1",
     "section": "Output",
     "text": "Output\n\n\nModel 1: Productivity predicted by coffee consumption\n\n\n\nCall:\nlm(formula = productivity ~ coffee, data = lm_df)\n\nCoefficients:\n(Intercept)       coffee  \n  69.338824     0.009624"
   },
   {
-    "objectID": "opt2/wyg2.html#tasks",
-    "href": "opt2/wyg2.html#tasks",
+    "objectID": "opt1/wyg1.html#tasks",
+    "href": "opt1/wyg1.html#tasks",
     "title": "Part 1",
     "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nFor the following questions, match up the equation of the line to the corresponding scatterplot.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei\n\n\n\n\n\n\nNote\n\n\n\nMake sure to take note of your answers! You will need them for the Kahoot! at the end of this section.\n\n\n \n« Back to Home » Next Section »"
-  },
-  {
-    "objectID": "opt2/bbw2.html",
-    "href": "opt2/bbw2.html",
-    "title": "Part 2",
-    "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
-  },
-  {
-    "objectID": "opt2/bbw2.html#data-and-design",
-    "href": "opt2/bbw2.html#data-and-design",
-    "title": "Part 2",
-    "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
-  },
-  {
-    "objectID": "opt2/bbw2.html#output",
-    "href": "opt2/bbw2.html#output",
-    "title": "Part 2",
-    "section": "Output",
-    "text": "Output\n\n\nModel 1: Productivity predicted by coffee consumption\n\n\n\nCall:\nlm(formula = productivity ~ coffee, data = lm_df)\n\nResiduals:\n     Min       1Q   Median       3Q      Max \n-23.3091  -4.6321  -0.0388   5.1361  22.6869 \n\nCoefficients:\n             Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 69.338824   0.863736  80.278   &lt;2e-16 ***\ncoffee       0.009624   0.168431   0.057    0.954    \n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 7.352 on 1930 degrees of freedom\nMultiple R-squared:  1.692e-06, Adjusted R-squared:  -0.0005164 \nF-statistic: 0.003265 on 1 and 1930 DF,  p-value: 0.9544\n\n\n\n\nModel 2: Productivity predicted by coffee consumption and wellbeing\n\n\n\nCall:\nlm(formula = productivity ~ coffee + wellbeing, data = lm_df)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-13.787  -3.302   0.109   3.419  13.714 \n\nCoefficients:\n            Estimate Std. Error t value Pr(&gt;|t|)    \n(Intercept) 65.76981    0.57164 115.054  &lt; 2e-16 ***\ncoffee      -0.88148    0.11202  -7.869  5.9e-15 ***\nwellbeing    2.68643    0.05324  50.456  &lt; 2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 4.829 on 1929 degrees of freedom\nMultiple R-squared:  0.5689,    Adjusted R-squared:  0.5685 \nF-statistic:  1273 on 2 and 1929 DF,  p-value: &lt; 2.2e-16"
-  },
-  {
-    "objectID": "opt2/bbw2.html#tasks",
-    "href": "opt2/bbw2.html#tasks",
-    "title": "Part 2",
-    "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nHow much variance in the outcome does each model explain? How much more variance does the second model explain compared to the first? Give your answers as percentages.\nAssuming the sampling distribution of b is normal, calculate the confidence intervals for the bs in the second model. How can you interpret these CIs?\nWhich of these two models, if any, is a significant improvement over the null model? How do you know?\n\n \n\n\n\n\n\n\nNote\n\n\n\nMake sure to take note of your answers! You will need them for the Kahoot! at the end of this section.\n\n\n« Previous Section Next Section »"
-  },
-  {
-    "objectID": "opt1/bypgg1.html",
-    "href": "opt1/bypgg1.html",
-    "title": "Part 3",
-    "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
-  },
-  {
-    "objectID": "opt1/bypgg1.html#data-and-design",
-    "href": "opt1/bypgg1.html#data-and-design",
-    "title": "Part 3",
-    "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
-  },
-  {
-    "objectID": "opt1/bypgg1.html#output",
-    "href": "opt1/bypgg1.html#output",
-    "title": "Part 3",
-    "section": "Output",
-    "text": "Output\n\n\nModel 3: Productivity predicted by coffee consumption, wellbeing, and AI use\n\n\n\nCall:\nlm(formula = productivity ~ coffee + wellbeing + use_ai, data = lm_df)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-3.5375 -0.6661 -0.0033  0.6941  3.6734 \n\nCoefficients:\n            Estimate Std. Error  t value Pr(&gt;|t|)    \n(Intercept) 99.78646    0.20667  482.830   &lt;2e-16 ***\ncoffee       0.04617    0.02413    1.913   0.0559 .  \nwellbeing    3.01252    0.01138  264.818   &lt;2e-16 ***\nuse_ai      -4.95959    0.02444 -202.951   &lt;2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 1.021 on 1928 degrees of freedom\nMultiple R-squared:  0.9807,    Adjusted R-squared:  0.9807 \nF-statistic: 3.27e+04 on 3 and 1928 DF,  p-value: &lt; 2.2e-16\n\n\n\n\n\n\nModel 2 vs Model 3 comparison\n\n\nAnalysis of Variance Table\n\nModel 1: productivity ~ coffee + wellbeing\nModel 2: productivity ~ coffee + wellbeing + use_ai\n  Res.Df   RSS Df Sum of Sq     F    Pr(&gt;F)    \n1   1929 44976                                 \n2   1928  2011  1     42965 41189 &lt; 2.2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\n\n\n\n\n Standardised Bs\n\n\nParameter   | Coefficient |       SE |         95% CI |  t(1928) |      p\n-------------------------------------------------------------------------\n(Intercept) |    5.11e-16 | 3.16e-03 | [-0.01,  0.01] | 1.62e-13 | &gt; .999\ncoffee      |    6.24e-03 | 3.26e-03 | [ 0.00,  0.01] |     1.91 | 0.056 \nwellbeing   |        0.86 | 3.23e-03 | [ 0.85,  0.86] |   264.82 | &lt; .001\nuse ai      |       -0.66 | 3.27e-03 | [-0.67, -0.66] |  -202.95 | &lt; .001"
-  },
-  {
-    "objectID": "opt1/bypgg1.html#tasks",
-    "href": "opt1/bypgg1.html#tasks",
-    "title": "Part 3",
-    "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nWhich is the better model, the second or third? In other words, is the third model (with three predictors) a significant improvement over the second model (with two predictors)?\nWhich predictor(s) in the better model are significant and which ones aren’t?\nWhich predictor in the better model has the biggest impact on the outcome?\n\n \n« Previous Section Back to Home »"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nThere are three different sessions in the revision session. They all cover the same content, just in different ways. Your session lead will tell you which of the options you have been allocated to. Select the correct option using the buttons below, or the navigation bar above.\n\n\n\n \n\nOption 1 Option 2 Option 3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n\n[1] 2"
+    "text": "Tasks\nUse the output above to answer the following questions.\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nFor the following questions, match up the equation of the line to the corresponding scatterplot.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei\n \n« Back to Home Next Section »"
   },
   {
     "objectID": "opt1/bbw1.html",
@@ -126,59 +56,45 @@
     "text": "Tasks\nUse the output above to answer the following questions.\n\nHow much variance in the outcome does each model explain? How much more variance does the second model explain compared to the first? Give your answers as percentages.\nAssuming the sampling distribution of b is normal, calculate the confidence intervals for the bs in the second model. How can you interpret these CIs?\nWhich of these two models, if any, is a significant improvement over the null model? How do you know?\n\n \n« Previous Section Next Section »"
   },
   {
-    "objectID": "opt1/wyg1.html",
-    "href": "opt1/wyg1.html",
-    "title": "Part 1",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
+    "text": "About this site\n\n\n[1] 2"
   },
   {
-    "objectID": "opt1/wyg1.html#data-and-design",
-    "href": "opt1/wyg1.html#data-and-design",
-    "title": "Part 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
     "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
+    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nThere are three different sessions in the revision session. They all cover the same content, just in different ways. Your session lead will tell you which of the options you have been allocated to. Select the correct option using the buttons below, or the navigation bar above.\n\n\n\n \n\nOption 1 Option 2 Option 3"
   },
   {
-    "objectID": "opt1/wyg1.html#output",
-    "href": "opt1/wyg1.html#output",
-    "title": "Part 1",
-    "section": "Output",
-    "text": "Output\n\n\nModel 1: Productivity predicted by coffee consumption\n\n\n\nCall:\nlm(formula = productivity ~ coffee, data = lm_df)\n\nCoefficients:\n(Intercept)       coffee  \n  69.338824     0.009624"
-  },
-  {
-    "objectID": "opt1/wyg1.html#tasks",
-    "href": "opt1/wyg1.html#tasks",
-    "title": "Part 1",
-    "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nFor the following questions, match up the equation of the line to the corresponding scatterplot.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei\n \n« Back to Home Next Section »"
-  },
-  {
-    "objectID": "opt2/bypgg2.html",
-    "href": "opt2/bypgg2.html",
+    "objectID": "opt1/bypgg1.html",
+    "href": "opt1/bypgg1.html",
     "title": "Part 3",
     "section": "",
     "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
   },
   {
-    "objectID": "opt2/bypgg2.html#data-and-design",
-    "href": "opt2/bypgg2.html#data-and-design",
+    "objectID": "opt1/bypgg1.html#data-and-design",
+    "href": "opt1/bypgg1.html#data-and-design",
     "title": "Part 3",
     "section": "",
     "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
   },
   {
-    "objectID": "opt2/bypgg2.html#output",
-    "href": "opt2/bypgg2.html#output",
+    "objectID": "opt1/bypgg1.html#output",
+    "href": "opt1/bypgg1.html#output",
     "title": "Part 3",
     "section": "Output",
     "text": "Output\n\n\nModel 3: Productivity predicted by coffee consumption, wellbeing, and AI use\n\n\n\nCall:\nlm(formula = productivity ~ coffee + wellbeing + use_ai, data = lm_df)\n\nResiduals:\n    Min      1Q  Median      3Q     Max \n-3.5375 -0.6661 -0.0033  0.6941  3.6734 \n\nCoefficients:\n            Estimate Std. Error  t value Pr(&gt;|t|)    \n(Intercept) 99.78646    0.20667  482.830   &lt;2e-16 ***\ncoffee       0.04617    0.02413    1.913   0.0559 .  \nwellbeing    3.01252    0.01138  264.818   &lt;2e-16 ***\nuse_ai      -4.95959    0.02444 -202.951   &lt;2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\nResidual standard error: 1.021 on 1928 degrees of freedom\nMultiple R-squared:  0.9807,    Adjusted R-squared:  0.9807 \nF-statistic: 3.27e+04 on 3 and 1928 DF,  p-value: &lt; 2.2e-16\n\n\n\n\n\n\nModel 2 vs Model 3 comparison\n\n\nAnalysis of Variance Table\n\nModel 1: productivity ~ coffee + wellbeing\nModel 2: productivity ~ coffee + wellbeing + use_ai\n  Res.Df   RSS Df Sum of Sq     F    Pr(&gt;F)    \n1   1929 44976                                 \n2   1928  2011  1     42965 41189 &lt; 2.2e-16 ***\n---\nSignif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\n\n\n\n\n Standardised Bs\n\n\nParameter   | Coefficient |       SE |         95% CI |  t(1928) |      p\n-------------------------------------------------------------------------\n(Intercept) |    5.11e-16 | 3.16e-03 | [-0.01,  0.01] | 1.62e-13 | &gt; .999\ncoffee      |    6.24e-03 | 3.26e-03 | [ 0.00,  0.01] |     1.91 | 0.056 \nwellbeing   |        0.86 | 3.23e-03 | [ 0.85,  0.86] |   264.82 | &lt; .001\nuse ai      |       -0.66 | 3.27e-03 | [-0.67, -0.66] |  -202.95 | &lt; .001"
   },
   {
-    "objectID": "opt2/bypgg2.html#tasks",
-    "href": "opt2/bypgg2.html#tasks",
+    "objectID": "opt1/bypgg1.html#tasks",
+    "href": "opt1/bypgg1.html#tasks",
     "title": "Part 3",
     "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nWhich is the better model, the second or third? In other words, is the third model (with three predictors) a significant improvement over the second model (with two predictors)?\nWhich predictor(s) in the better model are significant and which ones aren’t?\nWhich predictor in the better model has the biggest impact on the outcome?\n\n\n\n\n\n\n\nNote\n\n\n\nMake sure to take note of your answers! You will need them for the Kahoot! at the end of this section.\n\n\n« Previous Section Back to Home »"
+    "text": "Tasks\nUse the output above to answer the following questions.\n\nWhich is the better model, the second or third? In other words, is the third model (with three predictors) a significant improvement over the second model (with two predictors)?\nWhich predictor(s) in the better model are significant and which ones aren’t?\nWhich predictor in the better model has the biggest impact on the outcome?\n\n \n« Previous Section Back to Home »"
   }
 ]
