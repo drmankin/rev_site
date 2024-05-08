@@ -18,6 +18,10 @@ Which brings me to the worse news. The aliens tell us the AI has detected the si
 Humanity's continued existence rests in your hands! Good luck.
 :::
 
+### Revision Recap
+
+Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1GiNSxCYtly2WesWp3y5o4AWT9sVoi3nS9AJlrIp1SzM/edit?usp=sharing)
+
 ## Output
 
 Documentation retrieved from the crash site, believed to contain coded clues to the vault combination.

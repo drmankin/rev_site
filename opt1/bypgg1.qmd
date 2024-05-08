@@ -10,6 +10,10 @@ title: "Part 3"
 source("../scripts/revision_script.R")
 ```
 
+## Revision Recap
+
+Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1GiNSxCYtly2WesWp3y5o4AWT9sVoi3nS9AJlrIp1SzM/edit?usp=sharing)
+
 ## Output
 
 ```{r}

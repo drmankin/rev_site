@@ -16,6 +16,10 @@ We've collected a map of all of the locations of recent reported UFO sightings. 
 source("../scripts/revision_script.R")
 ```
 
+### Revision Recap
+
+Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1YuRH-7eMRm3vIom7E2q_vHLoFiJ4GiuUQqbQhoMtuuY/edit?usp=sharing)
+
 ## Output
 
 ```{r}
@@ -66,7 +70,7 @@ c(lat, lng)
 ### Longitude
 
 -   The first number is the third digit of the difference in R^2^ between the two models from task 1.
--   The third number is the second digit of the lower bound from the wellbeing predictor from task 2.
+-   The second number is the second digit of the lower bound from the wellbeing predictor from task 2.
 
 When you have found the ship, click on the marker to proceed.
 

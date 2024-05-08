@@ -2,6 +2,10 @@
 title: "Part 2"
 ---
 
+## Revision Recap
+
+Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1YuRH-7eMRm3vIom7E2q_vHLoFiJ4GiuUQqbQhoMtuuY/edit?usp=sharing)
+
 ```{r, child="../child/data_design.qmd"}
 
 ```

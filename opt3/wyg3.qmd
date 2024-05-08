@@ -39,6 +39,10 @@ Our diplomatic experts believe this is some kind of test. To establish communica
 Humanity's future rests in your hands! Good luck.
 :::
 
+### Revision Recap
+
+Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/11RdaC-vg1TZgoLgenjkgaNJ0pZ4j4h1qUmxxmZPmWgM/edit?usp=sharing)
+
 ## Output
 
 ```{r}
