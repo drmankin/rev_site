@@ -10,12 +10,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: opt1/wyg1.qmd
-        text: "Option 1"
-      - href: opt2/wyg2.qmd
-        text: "Option 2"
-      - href: opt3/wyg3.qmd
-        text: "Option 3"
+      #- href: opt1/wyg1.qmd
+      #  text: "Option 1"
+     # - href: opt2/wyg2.qmd
+     #   text: "Option 2"
+     # - href: opt3/wyg3.qmd
+     #   text: "Option 3"
 
 format:
   html:
