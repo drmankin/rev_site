@@ -21,6 +21,13 @@
     "text": "Response\n\nTransmission Frequency\nFirst, to determine the transmission frequency to use to send the response to the aliens, answer the following questions:\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nThe transmission frequency is the answer to question (3).\n\n\nCode\nMatch up the equation of the line to the corresponding scatterplots below. The code to send will take the form of a four-letter code of the matched-up scatterplots in order from 1 to 4.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei"
   },
   {
+    "objectID": "opt3/wyg3.html#solutions",
+    "href": "opt3/wyg3.html#solutions",
+    "title": "Part 1: The Transmission",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here."
+  },
+  {
     "objectID": "opt3/wyg3.html#transmission",
     "href": "opt3/wyg3.html#transmission",
     "title": "Part 1: The Transmission",
@@ -53,7 +60,14 @@
     "href": "opt3/bbw3.html#find-the-ship",
     "title": "Part 2: The Ship",
     "section": "Find the Ship",
-    "text": "Find the Ship\n\nLatitude\n\nThe first number is the answer to task 3.\nThe second number is the second digit of the upper bound from the coffee predictor from task 2.\n\n\n\nLongitude\n\nThe first number is the third digit of the difference in R2 between the two models from task 1.\nThe second number is the second digit of the lower bound from the wellbeing predictor from task 2.\n\nWhen you have found the ship, click on the marker to proceed."
+    "text": "Find the Ship\n\nLatitude\n\nThe first number is the answer to task 3.\nThe second number is the second digit of the upper bound from the coffee predictor from task 2.\n\n\n\nLongitude\n\nThe first number is the third digit of the difference in R2 between the two models from task 1.\nThe second number is the second digit of the lower bound from the wellbeing predictor from task 2."
+  },
+  {
+    "objectID": "opt3/bbw3.html#solutions",
+    "href": "opt3/bbw3.html#solutions",
+    "title": "Part 2: The Ship",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here.\nWhen you have found the ship, click on the marker to proceed."
   },
   {
     "objectID": "opt2/bypgg2.html",
@@ -123,7 +137,14 @@
     "href": "opt1/wyg1.html#tasks",
     "title": "Part 1",
     "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nFor the following questions, match up the equation of the line to the corresponding scatterplot.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei\n \n« Back to Home Next Section »"
+    "text": "Tasks\nUse the output above to answer the following questions.\n\nFor every unit increase in coffee consumed, what is the increase in predicted productivity? What can you conclude about the relationship between coffee and productivity based on this information?\nWhat is the equation of the line for this model?\nWhat productivity score does the model predict for someone that consumes 8 cups of coffee a day? Make sure you use bs rounded to 2 decimal places, and round your answer as well.\n\nFor the following questions, match up the equation of the line to the corresponding scatterplot.\n\n\n\n\n\n\n\n\n\n_____ 1. yi = 20.97 + -1.73xi + ei\n_____ 2. yi = 16.69 + 0.24xi + ei\n_____ 3. yi = 3.34 + 1.94xi + ei\n_____ 4. yi = 9.89 + 1.02xi + ei"
+  },
+  {
+    "objectID": "opt1/wyg1.html#solutions",
+    "href": "opt1/wyg1.html#solutions",
+    "title": "Part 1",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here.\n« Back to Home Next Section »"
   },
   {
     "objectID": "opt1/bbw1.html",
@@ -158,7 +179,14 @@
     "href": "opt1/bbw1.html#tasks",
     "title": "Part 2",
     "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nHow much variance in the outcome does each model explain? How much more variance does the second model explain compared to the first? Give your answers as percentages.\nAssuming the sampling distribution of b is normal, calculate the confidence intervals for the bs in the second model. How can you interpret these CIs?\nWhich of these two models, if any, is a significant improvement over the null model? How do you know?\n\n \n« Previous Section Next Section »"
+    "text": "Tasks\nUse the output above to answer the following questions.\n\nHow much variance in the outcome does each model explain? How much more variance does the second model explain compared to the first? Give your answers as percentages.\nAssuming the sampling distribution of b is normal, calculate the confidence intervals for the bs in the second model. How can you interpret these CIs?\nWhich of these two models, if any, is a significant improvement over the null model? How do you know?"
+  },
+  {
+    "objectID": "opt1/bbw1.html#solutions",
+    "href": "opt1/bbw1.html#solutions",
+    "title": "Part 2",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here.\n« Previous Section Next Section »"
   },
   {
     "objectID": "about.html",
@@ -172,7 +200,14 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nThere are three different sessions in the revision session. They all cover the same content, just in different ways. Your session lead will tell you which of the options you have been allocated to. Select the correct option using the buttons below, or the navigation bar above.\n\n\n\n\nOption 1 Option 2 Option 3"
+    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nAs part of the study accompanying these revision sessions, there were two possible conditions:\nYou are welcome to freely use any of the materials on this site to revise for the exam. If you would like only output, tasks, and answers, you may want to choose Option 1. If you’d like to (re)experience the gamified first-contact condition, you may want to choose Option 3. All of the output, tasks, and answers - in other words, all of the revision material relevant to the exam - are completely identical between the two conditions.\nEnjoy, and good luck!"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Welcome!",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIf you’re wondering about option 2 - there was one originally, but we decided to drop it based on the number of people participating, so no one saw option 2.↩︎"
   },
   {
     "objectID": "opt1/bypgg1.html",
@@ -207,7 +242,14 @@
     "href": "opt1/bypgg1.html#tasks",
     "title": "Part 3",
     "section": "Tasks",
-    "text": "Tasks\nUse the output above to answer the following questions.\n\nWhich is the better model, the second or third? In other words, is the third model (with three predictors) a significant improvement over the second model (with two predictors)?\nWhich predictor(s) in the better model are significant and which ones aren’t?\nWhich predictor in the better model has the biggest impact on the outcome?\n\n \n« Previous Section Back to Home »"
+    "text": "Tasks\nUse the output above to answer the following questions.\n\nWhich is the better model, the second or third? In other words, is the third model (with three predictors) a significant improvement over the second model (with two predictors)?\nWhich predictor(s) in the better model are significant and which ones aren’t?\nWhich predictor in the better model has the biggest impact on the outcome?"
+  },
+  {
+    "objectID": "opt1/bypgg1.html#solutions",
+    "href": "opt1/bypgg1.html#solutions",
+    "title": "Part 3",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here.\n« Previous Section Back to Home »"
   },
   {
     "objectID": "opt2/bbw2.html",
@@ -306,5 +348,12 @@
     "title": "Part 3: The Vault",
     "section": "Vault Lock",
     "text": "Vault Lock\nThe vault lock combination consists of three numbers:\n\nThe first is the number of the better model (2 or 3).\nThe second is the number of the predictor that is NOT significant.\nThe third is the number of the predictor that has the biggest impact on the outcome.\n\nWhen you have the combination, put it into the vault lock to retrieve the keys!"
+  },
+  {
+    "objectID": "opt3/bypgg3.html#solutions",
+    "href": "opt3/bypgg3.html#solutions",
+    "title": "Part 3: The Vault",
+    "section": "Solutions",
+    "text": "Solutions\nReview the solutions slides here."
   }
 ]

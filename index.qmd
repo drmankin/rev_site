@@ -4,14 +4,20 @@ title: "Welcome!"
 
 Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.
 
-There are three different sessions in the revision session. They all cover the same content, just in different ways. Your session lead will tell you which of the options you have been allocated to. Select the correct option using the buttons below, or the navigation bar above.
+As part of the study accompanying these revision sessions, there were two possible conditions:
 
-<!-- <a href="https://and-revision.netlify.app/opt1/wyg1"><button class="button">Option 1</button></a> -->
+- Option 1, the "normal" condition
+- Option 3, the "gamified" condition[^1].
 
-<!-- <a href="https://and-revision.netlify.app/opt2/wyg2"><button class="button middle" style="float: center;">Option 2</button></a> -->
+[^1]: If you're wondering about option 2 - there was one originally, but we decided to drop it based on the number of people participating, so no one saw option 2.
 
-<!-- <a href="https://and-revision.netlify.app/opt3/wyg3"><button class="button right">Option 3</button></a> -->
+You are welcome to freely use any of the materials on this site to revise for the exam. If you would like only output, tasks, and answers, you may want to choose Option 1. If you'd like to (re)experience the gamified first-contact condition, you may want to choose Option 3. All of the output, tasks, and answers - in other words, all of the revision material relevant to the exam - are completely identical between the two conditions.
+
+Enjoy, and good luck!
 
 ::: button-container
-<a href="https://and-rev.netlify.app/opt1/wyg1" class="button left">Option 1</a> <a href="https://and-rev.netlify.app/opt2/wyg2" class="button center">Option 2</a> <a href="https://and-rev.netlify.app/opt3/wyg3" class="button right">Option 3</a>
+<a href="https://and-rev.netlify.app/opt1/wyg1" class="button left">Option 1</a> <a href="https://and-rev.netlify.app/opt3/wyg3" class="button right">Option 3</a>
 :::
+
+<!-- Option 2 button (removed) -->
+<!-- <a href="https://and-rev.netlify.app/opt2/wyg2" class="button center">Option 2</a> -->

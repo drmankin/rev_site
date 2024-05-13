@@ -1,5 +1,11 @@
 ---
 title: "Part 3"
+embed-resources: true
+execute: 
+  warning: false
+  message: false
+  echo: false
+format: docx
 ---
 
 ```{r, child="../child/data_design.qmd"}
@@ -38,9 +44,3 @@ parameters::model_parameters(model3, standardize = "refit")
 ```{r, child="../child/p3_tasks.qmd"}
 
 ```
-
-## Solutions
-
-[Review the solutions slides here](https://docs.google.com/presentation/d/1g4QW9MGw3zftiDtMjnVxhmfAg_EfSYgOOB8_kRpBQSI/edit?usp=sharing).
-
-<a href="https://and-rev.netlify.app/opt1/bbw1"><button class="button">« Previous Section</button></a> <a href="https://and-rev.netlify.app/"><button class="button right">Back to Home »</button></a>

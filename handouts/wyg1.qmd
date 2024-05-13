@@ -1,10 +1,12 @@
 ---
 title: "Part 1"
+embed-resources: true
+execute: 
+  warning: false
+  message: false
+  echo: false
+format: docx
 ---
-
-## Revision Recap
-
-Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/11RdaC-vg1TZgoLgenjkgaNJ0pZ4j4h1qUmxxmZPmWgM/edit?usp=sharing)
 
 ```{r, child="../child/data_design.qmd"}
 
@@ -34,9 +36,3 @@ lm_mat
 ```
 
 `r paste0("_____ ", 1:4, ". y~i~ = ", round(mods_sum$b0, 2)," + ", round(mods_sum$b1, 2), "x~i~ + e~i~", sep = "\n\n", collapse = "")`
-
-## Solutions
-
-[Review the solutions slides here](https://docs.google.com/presentation/d/1GoO61HU75qGDb38pwSG-TSufFp0yp7wyM5kodCyL8sI/edit?usp=sharing).
-
-<a href="https://and-rev.netlify.app/"><button class="button">« Back to Home</button></a> <a href="https://and-rev.netlify.app/opt1/bbw1"><button class="button right">Next Section »</button></a>

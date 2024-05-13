@@ -1,5 +1,11 @@
 ---
 title: "Part 3: The Vault"
+embed-resources: true
+execute: 
+  warning: false
+  message: false
+  echo: false
+format: docx
 ---
 
 ```{r}
@@ -17,10 +23,6 @@ Which brings me to the worse news. The aliens tell us the AI has detected the si
 
 Humanity's continued existence rests in your hands! Good luck.
 :::
-
-### Revision Recap
-
-Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1GiNSxCYtly2WesWp3y5o4AWT9sVoi3nS9AJlrIp1SzM/edit?usp=sharing)
 
 ## Output
 
@@ -64,7 +66,3 @@ The vault lock combination consists of three numbers:
 3.  The third is the number of the predictor that has the biggest impact on the outcome.
 
 When you have the combination, put it into the vault lock to retrieve the keys!
-
-## Solutions
-
-[Review the solutions slides here](https://docs.google.com/presentation/d/1vJgG_Poy7Ib34-RP_IbQ5D-3wtCHjyO0eHzdt7oz3dE/edit?usp=sharing).

@@ -3,6 +3,7 @@ project:
   render: 
     - "*.qmd"
     - "!child/" # don't attempt to render child docs
+    - "!handouts/"
 
 website:
   title: "FiRst Contact"
@@ -12,8 +13,8 @@ website:
         text: Home
       - href: opt1/wyg1.qmd
         text: "Option 1"
-      - href: opt2/wyg2.qmd
-        text: "Option 2"
+      # - href: opt2/wyg2.qmd
+      #   text: "Option 2"
       - href: opt3/wyg3.qmd
         text: "Option 3"
 

@@ -1,5 +1,11 @@
 ---
 title: "Part 2: The Ship"
+embed-resources: true
+execute: 
+  warning: false
+  message: false
+  echo: false
+format: docx
 ---
 
 ::: callout-tip
@@ -15,12 +21,6 @@ We've collected a map of all of the locations of recent reported UFO sightings. 
 ```{r}
 source("../scripts/revision_script.R")
 ```
-
-### Revision Recap
-
-Need a hint? [Review the slides here!](https://docs.google.com/presentation/d/1YuRH-7eMRm3vIom7E2q_vHLoFiJ4GiuUQqbQhoMtuuY/edit?usp=sharing)
-
-## Output
 
 ```{r}
 cat("Model 1: Productivity predicted by coffee consumption")
@@ -71,10 +71,6 @@ c(lat, lng)
 
 -   The first number is the third digit of the difference in R^2^ between the two models from task 1.
 -   The second number is the second digit of the lower bound from the wellbeing predictor from task 2.
-
-## Solutions
-
-[Review the solutions slides here](https://docs.google.com/presentation/d/1Le5_XmCj1fpgRoGtfZ0FkUiIp-x_2uinEyi3KlFIs9c/edit?usp=sharing).
 
 When you have found the ship, click on the marker to proceed.
 

@@ -1,7 +1,11 @@
 ---
 title: "Part 1: The Transmission"
-# include-in-header: 
-#   text: <script type="text/javascript" src="p1_check.js"></script>
+embed-resources: true
+execute: 
+  warning: false
+  message: false
+  echo: false
+format: docx
 ---
 
 ```{r}
@@ -73,10 +77,6 @@ lm_mat
 ```
 
 `r paste0("_____ ", 1:4, ". y~i~ = ", round(mods_sum$b0, 2)," + ", round(mods_sum$b1, 2), "x~i~ + e~i~", sep = "\n\n", collapse = "")`
-
-## Solutions
-
-[Review the solutions slides here](https://docs.google.com/presentation/d/1LIuDCCdR5eZb-zIwL7JtR54pE9kCqDcEJd46OVxwkq8/edit?usp=sharing).
 
 ## Transmission
 
