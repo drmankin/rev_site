@@ -144,7 +144,7 @@
     "href": "opt1/wyg1.html#solutions",
     "title": "Part 1",
     "section": "Solutions",
-    "text": "Solutions\nReview the solutions slides here.\n« Back to Home Next Section »"
+    "text": "Solutions\nReview the solutions slides here.\n \n« Back to Home Next Section »"
   },
   {
     "objectID": "opt1/bbw1.html",
@@ -186,7 +186,7 @@
     "href": "opt1/bbw1.html#solutions",
     "title": "Part 2",
     "section": "Solutions",
-    "text": "Solutions\nReview the solutions slides here.\n« Previous Section Next Section »"
+    "text": "Solutions\nReview the solutions slides here.\n \n« Previous Section Next Section »"
   },
   {
     "objectID": "about.html",
@@ -200,35 +200,28 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nAs part of the study accompanying these revision sessions, there were two possible conditions:\nYou are welcome to freely use any of the materials on this site to revise for the exam. If you would like only output, tasks, and answers, you may want to choose Option 1. If you’d like to (re)experience the gamified first-contact condition, you may want to choose Option 3. All of the output, tasks, and answers - in other words, all of the revision material relevant to the exam - are completely identical between the two conditions.\nEnjoy, and good luck!"
-  },
-  {
-    "objectID": "index.html#footnotes",
-    "href": "index.html#footnotes",
-    "title": "Welcome!",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nIf you’re wondering about option 2 - there was one originally, but we decided to drop it based on the number of people participating, so no one saw option 2.↩︎"
+    "text": "Welcome to the Analysing Data revision website! This site provides the materials for our revision sessions to help you prepare for the Analysing Data exam.\nAs part of the study accompanying these revision sessions, there were two possible conditions:\n\nOption 1, the “normal” condition\nOption 3, the “gamified” condition.\n\n(If you’re wondering about option 2 - there was one originally, but we decided to drop it.)\nYou are welcome to freely use any of the materials on this site to revise for the exam. If you would like only output, tasks, and answers, you may want to choose Option 1. If you’d like to (re)experience the gamified first-contact condition, you may want to choose Option 3. All of the output, tasks, and answers - in other words, all of the revision material relevant to the exam - are completely identical between the two conditions.\nEnjoy, and good luck!\n \n\nOption 1 Option 3"
   },
   {
     "objectID": "opt1/bypgg1.html",
     "href": "opt1/bypgg1.html",
     "title": "Part 3",
     "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
-  },
-  {
-    "objectID": "opt1/bypgg1.html#data-and-design",
-    "href": "opt1/bypgg1.html#data-and-design",
-    "title": "Part 3",
-    "section": "",
-    "text": "This study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
+    "text": "Need a hint? Review the slides here!"
   },
   {
     "objectID": "opt1/bypgg1.html#revision-recap",
     "href": "opt1/bypgg1.html#revision-recap",
     "title": "Part 3",
-    "section": "Revision Recap",
-    "text": "Revision Recap\nNeed a hint? Review the slides here!"
+    "section": "",
+    "text": "Need a hint? Review the slides here!"
+  },
+  {
+    "objectID": "opt1/bypgg1.html#data-and-design",
+    "href": "opt1/bypgg1.html#data-and-design",
+    "title": "Part 3",
+    "section": "Data and Design",
+    "text": "Data and Design\nThis study is interested in the variables that predict daily productivity [productivity]. The output in each part explores the effect of the following variables:\n\ncoffee: Number of cups of coffee consumed\nwellbeing: Rating of the wellbeing of each worker, from -10 (awful) to 10 (brilliant)\nai_use: Rating of the frequency of use of AI, from 0 (none at all) to 10 (constant)\n\nNote: All data were generated randomly."
   },
   {
     "objectID": "opt1/bypgg1.html#output",
@@ -249,7 +242,7 @@
     "href": "opt1/bypgg1.html#solutions",
     "title": "Part 3",
     "section": "Solutions",
-    "text": "Solutions\nReview the solutions slides here.\n« Previous Section Back to Home »"
+    "text": "Solutions\nReview the solutions slides here.\n \n« Previous Section Back to Home »"
   },
   {
     "objectID": "opt2/bbw2.html",

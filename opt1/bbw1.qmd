@@ -34,4 +34,6 @@ summary(model2)
 
 [Review the solutions slides here](https://docs.google.com/presentation/d/1QTEwSeOitIcq1P6_dZtJa5dWdHw4Sm-6rcD8mCcBDdc/edit?usp=sharing).
 
+\ 
+
 <a href="https://and-rev.netlify.app/opt1/wyg1"><button class="button">« Previous Section</button></a> <a href="https://and-rev.netlify.app/opt1/bypgg1"><button class="button right">Next Section »</button></a>

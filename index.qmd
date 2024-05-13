@@ -7,13 +7,15 @@ Welcome to the Analysing Data revision website! This site provides the materials
 As part of the study accompanying these revision sessions, there were two possible conditions:
 
 - Option 1, the "normal" condition
-- Option 3, the "gamified" condition[^1].
+- Option 3, the "gamified" condition.
 
-[^1]: If you're wondering about option 2 - there was one originally, but we decided to drop it based on the number of people participating, so no one saw option 2.
+(If you're wondering about option 2 - there was one originally, but we decided to drop it.)
 
 You are welcome to freely use any of the materials on this site to revise for the exam. If you would like only output, tasks, and answers, you may want to choose Option 1. If you'd like to (re)experience the gamified first-contact condition, you may want to choose Option 3. All of the output, tasks, and answers - in other words, all of the revision material relevant to the exam - are completely identical between the two conditions.
 
 Enjoy, and good luck!
+
+\ 
 
 ::: button-container
 <a href="https://and-rev.netlify.app/opt1/wyg1" class="button left">Option 1</a> <a href="https://and-rev.netlify.app/opt3/wyg3" class="button right">Option 3</a>
